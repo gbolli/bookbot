@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Bookdev project to generate report on word and letter counts from text files
